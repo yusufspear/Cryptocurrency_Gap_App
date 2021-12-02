@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cryptocurrency Gap</string>
+    <string name="market">Market</string>
+    <string name="binance">Binance</string>
+    <string name="wazirx">WaxirX</string>
+    <string name="change">Change</string>
+    <string name="gap">Price Gap</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
